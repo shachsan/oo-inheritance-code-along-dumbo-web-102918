@@ -1,3 +1,3 @@
 class Vehicle
-  def 
+  def initialize
 end
