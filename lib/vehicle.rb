@@ -1,3 +1,3 @@
 class Vehicle
-  def initialize
+  def initialize(wheel_size)
 end
