@@ -1,5 +1,5 @@
 class Vehicle
-  attr_reader
+  attr_reader :whe
   def initialize(wheel_size, wheel_number)
     @wheel_size = wheel_size
     @wheel_number = wheel_number
